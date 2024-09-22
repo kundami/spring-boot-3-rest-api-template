@@ -76,7 +76,7 @@ The project focuses on a Heroes API as an example, which includes basic CRUD ope
 Exception handling is globally managed with a `@RestControllerAdvice` to ensure consistent handling of exceptions throughout the entire application.
 
 The project also includes the setup for an H2 database (an in-memory database) for testing purposes and development environment. For the production environment on Railway, PostgreSQL database is used.
-Added code for creating a local instance of H2 in windows #url: jdbc:h2:file:C:\Users\folder\folder\folder\database
+Added code for creating a local instance of H2 in windows #url: jdbc:h2:file:C:\Users\folder\folder\folder\database(Windows)
 
 ## API Usage (Swagger UI Documentation)
 
